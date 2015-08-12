@@ -21,5 +21,6 @@ AC_CONFIG_FILES([Makefile lib/Makefile src/Makefile])
 # Lock for a C compiler:
 AC_PROG_CC
 #AM_PROG_CC_C_O
+AC_PROG_RANLIB
 
 AC_OUTPUT

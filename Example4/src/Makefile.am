@@ -1,2 +1,3 @@
-bin_PROGRAMS = Exemple4
-Exemple4_SOURCES = main.c
+bin_PROGRAMS = Example4
+Example4_SOURCES = main.c
+Example4_LDADD = libcustomA
