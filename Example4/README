@@ -1,0 +1,5 @@
+A little example with a static library
+
+$ autoreconf -i
+$ -/configute
+$ make
