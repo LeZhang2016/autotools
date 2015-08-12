@@ -1,5 +1,14 @@
 A little example with a static library
 
 $ autoreconf -i
-$ -/configute
+$ ./configute
+$ make
+
+#########################################################
+Clean solution ******************************************
+
+$ autoreconf -i
+$ mkdir build
+$ cd build
+$ ../configure
 $ make
