@@ -1,0 +1,7 @@
+A little example with libtool
+
+$ autoreconf -i
+$ mkdir build
+$ cd build
+$ ../configure
+$ make
